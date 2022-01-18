@@ -1,3 +1,3 @@
-# pirmā līmeņa virsraksts
-## otrā līmeņa virsraksts
-###### mazāks līmeņa virsraksts
+# Pirmā līmeņa virsraksts
+## Otrā līmeņa virsraksts
+###### Mazāks līmeņa virsraksts
